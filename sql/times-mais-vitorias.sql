@@ -1,0 +1,9 @@
+SELECT DISTINCT
+	team as 'TIME',
+    w as 'VITÓRIAS'
+FROM
+	ranking
+ORDER BY
+	W
+DESC LIMIT
+	10;
