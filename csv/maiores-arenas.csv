@@ -1,6 +1,6 @@
-TIME;ARENA;LUGARES;CIDADE
-Bulls;"United Center";21711;Chicago
-Pistons;"Little Caesars Arena";21000;Detroit
-Wizards;"Capital One Arena";20647;Washington
-Cavaliers;"Quicken Loans Arena";20562;Cleveland
-Jazz;"Vivint Smart Home Arena";20148;Utah
+TIME,ARENA,LUGARES,CIDADE
+Bulls,"United Center",21711,Chicago
+Pistons,"Little Caesars Arena",21000,Detroit
+Wizards,"Capital One Arena",20647,Washington
+Cavaliers,"Quicken Loans Arena",20562,Cleveland
+Jazz,"Vivint Smart Home Arena",20148,Utah
