@@ -122,3 +122,10 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 <p>  <a href="https://github.com/psmiceli" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
    
 <p>  <a href="https://www.linkedin.com/in/pablo-miceli-8bb155166/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
+
+<h2>Diogenes Ferreira:</h2>
+
+<p>  <a href="https://github.com/diogenesferreirabr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a> </p>
+   
+<p>  <a href="https://www.linkedin.com/in/diogenes-ferreira-6aab9324a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> </p>
+
