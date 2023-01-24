@@ -95,7 +95,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
   
  <hr>
   
-  <h1>🏀TIME<h1>
+  <h1>🏀 TIME <h1>
     
 <p> Links:</p>
 
