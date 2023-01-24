@@ -9,7 +9,7 @@ e manipular esses dados utilizando a ferramenta MySQL Workbench.</p>
 ![image](https://s2.glbimg.com/htXio_Xo64203-jst1l3aSnPwDA=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/B/H/gdyewvQ36SLycZRwl2AA/carrossel-apresentacao-da-temporada-nba.jpg)
 
 
-<h2> 📢  REQUISITOS e PASSO A PASSO: </h2>
+<h2> REQUISITOS e PASSO A PASSO: </h2>
 
  <p> 🏀 Ideação/Brainstorm sobre perguntas que podem ser
 respondidas pelos dados: Análise o conjunto de dados
@@ -40,9 +40,7 @@ exploratória feita em cima do conjunto de dados selecionados. </p>
 <hr>
 <h1> Modelo Relacional </h1>
 
-<h4>O Modelo Relacional sobre seus antecessores é a
-representação simples dos dados e a facilidade com que consultas complexas podem ser
-expressas. Antes da estrutarar o banco de dados por boas práticas de programação deve-se fazer um modelo db.<h4>
+<h4>Os bancos de dados relacionais são um tipo de banco de dados que armazena e organiza pontos de dados com relações definidas para acesso rápido. Com um banco de dados relacional, os dados são organizados em tabelas que contêm informações sobre cada entidade e representam categorias predefinidas por meio de linhas e colunas.<h4>
 
 
 <img src="https://raw.githubusercontent.com/themonsteer/db-nba/main/diagrama-model/diagrama.PNG">
@@ -50,19 +48,19 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
 
 <hr>
 
-  <h1> 📝Consultas</h1>
+  <h1> Consultas</h1>
 
-<h4>Na documentação foi realizado a extração das informação, que seria necessárias para construção do nosso db, com isto o squad construiu as consultas para que o banco de dados realizasse o retorno.</h4>
+<h4>Consulta realizada baseado nas informações do banco de dados, com isso nosso grupo elaborou algumas perguntas para ter o retorno das consultas.</h4>
 
-🏀 Ano de Fundação(Times mais antigos)
+🏀 1. Ano de Fundação(Times mais antigos)
 
-🏀 Derrotas (Times com derrotas até 01/03/2020)
+🏀 2. Derrotas(Times com mais derrotas até 01/03/2020)
 
-🏀 Vitórias(Times com mais vitórias)
+🏀 3. Vitórias(Times com mais vitórias)
 
-🏀 Vitórias fora de casa(Times com mais vitórias fora de casa)
+🏀 4. Vitórias fora de casa(Times com mais vitórias fora de casa)
  
-🏀 Maiores arenas
+🏀 5. Maiores arenas
 
 <h1>Retorno das Consultas</h1>
   
@@ -79,9 +77,10 @@ expressas. Antes da estrutarar o banco de dados por boas práticas de programaç
   
 <hr>
   
-  <h1>📊 Gráficos</h1>
+  <h1>Gráficos</h1>
  
- <h4>Após a realização da extração da documetação e realizada as consultas, importamos as consultas para o Power Bi para modelagem dos gráficos. Os gráficos são extremamente importante para uma vizualização mais ampla dos dados, atrativo para o endentimento de qualquer pessoa e uma estrutura básica para apresentações. </h4>
+ <h4> Baseado nos resultados das consultas decidimos importar para o excel em tipo csv para maior detalhamento dos resultados, para modelagem de gráficos.</h4>
+ 
    
   <h1> 🏀 TIMES COM MAIS VITÓRIAS </h1>
 <img src = "https://github.com/themonsteer/db-nba/blob/main/graficos/time-mais-vitorias.PNG?raw=true">
